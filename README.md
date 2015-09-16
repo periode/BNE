@@ -3,11 +3,7 @@ an augmented reality app for a street sticker
 
 --
 
-<img src="targetImages/template_main.jpg" alt="BNE Sticker" style="display: block;
-    margin-left: auto;
-    margin-right: auto"/>
-
-this is the open repo for BNE, an augmented reality app using the BNE WAS HERE sticker as a target image.
+this is the open repo for BNE, an augmented reality app using the <a href="https://github.com/pierredepaz/BNE/blob/master/targetImages/template_main.jpg">BNE WAS HERE</a> sticker as a target image.
 
 the goal of this project is to allow as many artists and programmers as possible to contribute to one existing Unity scene, so that, whenever someone pulls up their phone in front of a BNE sticker in any city, they will see one particular artwork taken from of a pool of many, many others.
 
